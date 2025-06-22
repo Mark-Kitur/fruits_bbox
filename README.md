@@ -1,5 +1,5 @@
 # fruits_bbox
-🧠 What is Object Detection?
+What is Object Detection?
 Object detection is a computer vision technique used to locate and classify objects within an image. Unlike image classification (which only tells you what’s in an image), object detection also tells you where the object is using bounding boxes.
 
 Each bounding box is defined by four coordinates:
